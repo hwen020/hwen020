@@ -1,12 +1,12 @@
 # Hairu Wen
 
-I鈥檓 a software engineer with more than two years of professional experience in enterprise software engineering. My work focuses on backend systems, business workflow automation, data pipelines, and applied AI. My research experience includes machine learning and multimodal AI.
+I’m a software engineer with more than two years of professional experience in enterprise software engineering. My work focuses on backend systems, business workflow automation, data pipelines, and applied AI. My research experience includes machine learning and multimodal AI.
 
 ## Engineering focus
 
-- **Backend and system design** 鈥?APIs, workflow state, business rules, and data modeling
-- **Full-stack and data engineering** 鈥?connecting browser interfaces to backend services and designing reproducible data workflows
-- **Applied AI** 鈥?applying machine learning to software and research problems, including multimodal data
+- **Backend and system design** —APIs, workflow state, business rules, and data modeling
+- **Full-stack and data engineering** —connecting browser interfaces to backend services and designing reproducible data workflows
+- **Applied AI** —applying machine learning to software and research problems, including multimodal data
 
 ## Selected projects
 
@@ -29,4 +29,4 @@ I鈥檓 a software engineer with more than two years of professional experience 
 
 ## Contact
 
-[GitHub 路 @hwen020](https://github.com/hwen020)
+[GitHub · @hwen020](https://github.com/hwen020)
