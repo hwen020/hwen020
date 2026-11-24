@@ -1,4 +1,4 @@
-# Hairu Wen
+# Ellen Wen
 
 I’m a software engineer with more than two years of professional experience in enterprise software engineering. My work focuses on backend systems, business workflow automation, data pipelines, and applied AI. My research experience includes machine learning and multimodal AI.
 
